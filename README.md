@@ -1,5 +1,5 @@
 
-#Coursera-machine-learning-ex1
+# Coursera-machine-learning-ex1
 
 Coursera-machine-learnining-ex1
 
@@ -13,4 +13,5 @@ These files are to be completed and submitted
 - computeCost.m --- Function to compute the cost of linear regression
 - gradientDescent.m --- Function to run gradient descent
 
+This makes up the first programming assignment for the Course.
 
